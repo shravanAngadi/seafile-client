@@ -1092,8 +1092,8 @@ Bitte %1</translation>
     </message>
     <message>
         <location filename="../src/filebrowser/file-table.cpp" line="290"/>
-        <source>G&amp;enerate Seafile Internal Link</source>
-        <translation>Seafile-internen Ling erzeugen</translation>
+        <source>G&amp;enerate %1 Internal Link</source>
+        <translation>%1-internen Ling erzeugen</translation>
     </message>
     <message>
         <location filename="../src/filebrowser/file-table.cpp" line="299"/>
@@ -2516,8 +2516,8 @@ Möchten Sie die Internetseite zum Herunterladen aufrufen?</translation>
     <name>SeafileLinkDialog</name>
     <message>
         <location filename="../src/filebrowser/seafilelink-dialog.cpp" line="17"/>
-        <source>Seafile Internal Link</source>
-        <translation>Seafile-interner Link:</translation>
+        <source>%1 Internal Link</source>
+        <translation>%1-interner Link:</translation>
     </message>
     <message>
         <location filename="../src/filebrowser/seafilelink-dialog.cpp" line="24"/>
@@ -2526,13 +2526,13 @@ Möchten Sie die Internetseite zum Herunterladen aufrufen?</translation>
     </message>
     <message>
         <location filename="../src/filebrowser/seafilelink-dialog.cpp" line="30"/>
-        <source>Seafile Web Link:</source>
-        <translation>Seafile Web-Link:</translation>
+        <source>%1 Web Link:</source>
+        <translation>%1 Web-Link:</translation>
     </message>
     <message>
         <location filename="../src/filebrowser/seafilelink-dialog.cpp" line="52"/>
-        <source>Seafile Protocol Link:</source>
-        <translation>Seafile Protokoll-Link:</translation>
+        <source>%1 Protocol Link:</source>
+        <translation>%1 Protokoll-Link:</translation>
     </message>
     <message>
         <location filename="../src/filebrowser/seafilelink-dialog.cpp" line="85"/>

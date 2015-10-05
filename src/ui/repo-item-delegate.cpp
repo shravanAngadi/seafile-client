@@ -237,8 +237,7 @@ void RepoItemDelegate::paintRepoItem(QPainter *painter,
             }
 
         } else {
-            qint64 mtime = r.isValid() ? r.last_sync_time : repo.mtime;
-            description = translateCommitTime(mtime);
+            description = translateCommitTime(repo.mtime);
         }
     }
 
